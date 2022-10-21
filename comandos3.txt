@@ -17,3 +17,5 @@
 9- head –n2172 el_quijote.txt | head –n11
 
 10- sort –fr el_quijote.txt
+
+11- git fetch quijote (estando en master)
