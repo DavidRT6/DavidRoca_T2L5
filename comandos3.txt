@@ -18,4 +18,4 @@
 
 10- sort –fr el_quijote.txt
 
-11- git fetch quijote (estando en master)
+11- git merge quijote (estando en master)
