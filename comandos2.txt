@@ -19,3 +19,5 @@
 19- cp mensaje.txt dir1
     cp mensaje.txt dir2
     cp mensaje.txt dir3
+
+20- ls *
