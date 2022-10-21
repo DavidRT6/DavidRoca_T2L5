@@ -13,3 +13,5 @@
 7- head –c4 el_quijote.txt
 
 8- head –c4000 el_quijote.txt
+
+9- head –n2172 el_quijote.txt | head –n11
