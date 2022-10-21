@@ -3,3 +3,5 @@
 2- ls /tmp
 
 3- ls /etc | grep ^t | sort –r
+
+4- ls /dev/tty??
