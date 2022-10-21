@@ -3,3 +3,5 @@
 2- cat el_quijote.txt | grep –vi quijote | wc -l
 
 3- grep –iscr quijote
+
+4- grep –iscr quijote | grep –v :0$
